@@ -1,0 +1,12 @@
+
+
+0. pip install virtualenv
+1. to make environment, type on command promt: python -m venv .
+2. after that to activate the virtual environment type: .\srcipts\activate
+3. now we can install the flask to do so type: pip install flask
+4. to open vscode type: code .
+5. then create a file with extension .py
+6. then write some code for first app of flask
+7. then to run the flask server type run flask
+8. then you will find an url then click on it and then you will see you first app
+Finised...
